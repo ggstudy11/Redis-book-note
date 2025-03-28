@@ -1,2 +1,2 @@
 # Redis-book-note
-The note of The Desigan and Implementation of Redis
+The note of **_The Design and Implementation of Redis_**
